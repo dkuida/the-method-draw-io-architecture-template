@@ -16,8 +16,7 @@ Components box sizes match the grid spacing
 
 [IDesign.xml](https://github.com/dkuida/the-method-draw-io-architecture-template/blob/master/IDesign.xml) is a scratchpad shapes collection that one can drop into any existing project
 
-
 ![Add scratchpad to any project gif](https://github.com/dkuida/the-method-draw-io-architecture-template/raw/example/tutorials/scratchpad.gif "Add scratchpad to any project")
 
-
+![use case validation](https://github.com/dkuida/the-method-draw-io-architecture-template/raw/example/tutorials/use-case-validation.mp4 "use case validation")
 
