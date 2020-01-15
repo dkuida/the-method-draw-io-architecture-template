@@ -18,5 +18,5 @@ Components box sizes match the grid spacing
 
 ![Add scratchpad to any project gif](https://github.com/dkuida/the-method-draw-io-architecture-template/raw/example/tutorials/scratchpad.gif "Add scratchpad to any project")
 
-![use case validation](https://github.com/dkuida/the-method-draw-io-architecture-template/raw/example/tutorials/use-case-validation.mp4 "use case validation")
+![use case validation](https://github.com/dkuida/the-method-draw-io-architecture-template/raw/example/tutorials/use-case-validation.gif "use case validation")
 
