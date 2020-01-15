@@ -10,15 +10,15 @@ draw.io template to present architecture based on [The Method](https://rightings
 
 Components box sizes match the grid spacing
 
-![add components gif](https://github.com/dkuida/the-method-draw-io-architecture-template/raw/example/tutorials/usage.gif "add components")
+![add components gif](https://github.com/dkuida/the-method-draw-io-architecture-template/raw/master/tutorials/usage.gif "add components")
 
 ## Existing projects - scratchpad
 
 [IDesign.xml](https://github.com/dkuida/the-method-draw-io-architecture-template/blob/master/IDesign.xml) is a scratchpad shapes collection that one can drop into any existing project
 
-![Add scratchpad to any project gif](https://github.com/dkuida/the-method-draw-io-architecture-template/raw/example/tutorials/scratchpad.gif "Add scratchpad to any project")
+![Add scratchpad to any project gif](https://github.com/dkuida/the-method-draw-io-architecture-template/raw/master/tutorials/scratchpad.gif "Add scratchpad to any project")
 
 ## Use case validation
 
-![use case validation](https://github.com/dkuida/the-method-draw-io-architecture-template/raw/example/tutorials/use-case-validation.gif "use case validation")
+![use case validation](https://github.com/dkuida/the-method-draw-io-architecture-template/raw/master/tutorials/use-case-validation.gif "use case validation")
 
